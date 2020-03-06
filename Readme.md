@@ -45,11 +45,12 @@ updated: 2020 03 06 -->
 ### Supports:
 - ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 - all sizes of docking ports
-- [Near Future Construction]()
-- [PicoPort]()
-- [Konstruction]()
-- [Flexible Docking]()
-- [kerbodynePlus]()
+- [Near Future Construction](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*)
+- [PicoPort](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
+= [PicoPort for all sizes](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
+- [Konstruction](http://umbraspaceindustries.github.io/UmbraSpaceIndustries/)
+- [Flexible Docking](http://forum.kerbalspaceprogram.com/index.php?/topic/108704-*)
+- [kerbodynePlus](https://forum.kerbalspaceprogram.com/index.php?/topic/130809-*)
 
 ### License
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
