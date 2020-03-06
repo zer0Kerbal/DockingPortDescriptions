@@ -1,19 +1,18 @@
 <!-- Readme.md v1.0.0.2
 DockingPortDescriptions (DDD)
 created: 17 Aug 18
-updated: 05 Oct 19 -->
-
-<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
+updated: 2020 03 06 -->
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
-## *DockingPortDescriptions* by zer0Kerbal
-v1.0.0.2 for KSP v1.7.x
+<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-![Docking Port Descriptions version](https://img.shields.io/badge/MOD%20version-1.0.0.2-orange.svg?style=flat-square)
-![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
-![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
-![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
+# DockingPortDescriptions
+##  by zer0Kerbal
+
+![DockingPortDescriptions](https://img.shields.io/github/v/release/zer0Kerbal/DockingPortDescriptions?include_prereleases?style=plastic)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
+![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
 ## DockingPortDescriptions (DPD)
 ### Adds to the description of parts with docking ports in Kerbal Space Program
@@ -30,21 +29,21 @@ v1.0.0.2 for KSP v1.7.x
 - Extract to your KSP folder.
 
 ### Changelog Summary
-*See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/DockingPortDescriptions/Changelog.cfg) for full details of mod changes*
+*See ![ChangeLog](https://github.com/zer0Kerbal/DockingPortDescriptions/Changelog.cfg) for full details of mod changes*
 
 ### Requires:
- * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions
- * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
+- ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions
+- ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
 
 ### Suggests:
- * ![Shielded PicoPort](https://spacedock.info/mod/2245/PicoPort%20Shielded)
- * ![On Demand Fuel Cells Refueled](https://github.com/zer0Kerbal/ODFCr)
- * ![KGEx (coming soon)](https://github.com/zer0Kerbal/KGEx)
- * ![KGEx DuoPods](https://github.com/zer0Kerbal/DuoPods)
- * ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
- * ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+- ![Shielded PicoPort](https://spacedock.info/mod/2245/PicoPort%20Shielded)
+- ![On Demand Fuel Cells Refueled](https://github.com/zer0Kerbal/ODFCr)
+- ![KGEx (coming soon)](https://github.com/zer0Kerbal/KGEx)
+- ![KGEx DuoPods](https://github.com/zer0Kerbal/DuoPods)
+- ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
 
 ### Supports:
+- ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 - all sizes of docking ports
 - [Near Future Construction]()
 - [PicoPort]()
@@ -62,7 +61,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.0.2 original: 01 Oct 2019 zed'K | updated: 05 Oct 2019 zed'K
+ ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 2020 03 06 zed'K
 <!--
 CC BY-NC-SA-4.0
 zer0Kerbal-->
