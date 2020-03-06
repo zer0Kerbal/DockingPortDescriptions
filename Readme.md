@@ -17,7 +17,7 @@ updated: 2020 03 06 -->
 ## DockingPortDescriptions (DPD)
 ### Adds to the description of parts with docking ports in Kerbal Space Program
 
-![DockingPortDescriptions]()
+<a href="https://postimg.cc/XXhd3VSR" target="_blank"><img src="https://i.postimg.cc/XXhd3VSR/Hero.png" alt="Hero"/></a> <a href="https://postimg.cc/Whkr1Qsh" target="_blank"><img src="https://i.postimg.cc/Whkr1Qsh/Hero-02.png" alt="Hero-02"/></a> <a href="https://postimg.cc/Hr1McBL3" target="_blank"><img src="https://i.postimg.cc/Hr1McBL3/Hero-gendered.png" alt="Hero-gendered"/></a>
 
 ### Parts:
  + none
