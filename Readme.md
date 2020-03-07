@@ -12,6 +12,8 @@ updated: 2020 03 06 -->
 
 ![DockingPortDescriptions](https://img.shields.io/github/v/release/zer0Kerbal/DockingPortDescriptions?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
+  
+ ![Validate AVC .version files](https://github.com/zer0Kerbal/DockingPortDescriptions/workflows/Validate%20AVC%20.version%20files/badge.svg)
 
 ## DockingPortDescriptions (DPD)
 ### Adds to the description of parts with docking ports in Kerbal Space Program
