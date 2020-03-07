@@ -24,7 +24,7 @@ updated: 2020 03 06 -->
 - adds vfx and sfx to docking ports that are missing them (stock sfx vfx)
 - Supports Near Future Construction docking port sizes
 
-#### Installation Directions (assumes basic KSP mod installation knowledge):
+#### Installation Directions:
 - Use CKAN
 
 ### Changelog Summary
@@ -87,7 +87,7 @@ DockingPortDescriptions (DDD) is licensed under a Creative Commons Attribution-N
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 2020 03 06 zed'K
+ ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 06 Mar 2020 zed'K
 <!--
 CC BY-NC-SA-4.0
 zer0Kerbal-->
