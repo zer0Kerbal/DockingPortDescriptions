@@ -1,13 +1,13 @@
 <!-- Readme.md v1.0.0.2
-DockingPortDescriptions (DDD)
+DockingPortDescriptions (DPD)
 created: 17 Aug 18
 updated: 2020 03 06 -->
 
-# KerbGuise Experimental engineering (KGEx)
-#### Brings you:
+<!-- # KerbGuise Experimental engineering (KGEx)
+#### Brings you: -->
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-# DockingPortDescriptions
+# DockingPortDescriptions (DPD)
 ##  by zer0Kerbal
 
 ![DockingPortDescriptions](https://img.shields.io/github/v/release/zer0Kerbal/DockingPortDescriptions?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
@@ -83,7 +83,7 @@ DockingPortDescriptions (DDD) is licensed under a Creative Commons Attribution-N
 
 <a href="https://github.com/zer0Kerbal/DockingPortDescriptions/releases/latest" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
 <a href="https://spacedock.info/mod/2246" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
-<a href="https://www.curseforge.com/kerbal/ksp-mods/docking-port-descriptions-ddd" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
+<a href="https://www.curseforge.com/kerbal/ksp-mods/dpd" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
