@@ -1,6 +1,8 @@
 {
   "schemaVersion": 1,
-  "label": "Docking Port Descriptions",
+  "label": "Docking Port Descriptions (DPD)",
+  "labelColor": "darkgreen",
   "message": "1.0.1.0",
-  "color": "orange"
+  "color": "green",
+  "style": "plastic" 
 }
