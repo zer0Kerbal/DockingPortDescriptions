@@ -10,7 +10,7 @@ updated: 2020 03 06 -->
 # DockingPortDescriptions (DPD)
 ##  by zer0Kerbal
 
-![DockingPortDescriptions](https://img.shields.io/github/v/release/zer0Kerbal/DockingPortDescriptions?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
+![DockingPortDescriptions](https://img.shields.io/github/v/release/zer0Kerbal/DockingPortDescriptions?include_prereleases-red) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![GPLv2 <BY-SA>](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/license.json)   
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
   
  ![Validate AVC .version files](https://github.com/zer0Kerbal/DockingPortDescriptions/workflows/Validate%20AVC%20.version%20files/badge.svg)
@@ -71,14 +71,9 @@ updated: 2020 03 06 -->
 ### License
 #### aka Legal Mumbo Jumbo
 Source: [GitHub](https://github.com/zer0Kerbal/DockingPortDescriptions)
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")<br>
+License: [GPLv2 <BY-SA>]() ![GPLv2 <BY-SA>](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/license.json "GPLv2 <BY-SA>")<br>
 
-DockingPortDescriptions (DDD) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license, which in layman's terms means:
-> * You are permitted to use, copy and redistribute my work as-is.
-> * You may remix your own derivatives (new models, alternative textures, etc.) and release them under your own name.
-> * You may not use the material for any commercial purposes.
-> * You must use the same license as the original work.
-> * You must credit the following people when publishing your derivative: riocrokite (Stork Delivery System).
+DockingPortDescriptions (DPD) is 
 
 - ***All bundled mods are distributed under their own licenses***<br>
 - ***All art assets (textures, models, animations) are distributed under their own licenses*** 
@@ -91,5 +86,5 @@ DockingPortDescriptions (DDD) is licensed under a Creative Commons Attribution-N
 
  ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 06 Mar 2020 zed'K
 <!--
-CC BY-NC-SA-4.0
+GPLv2 <BY-SA>
 zer0Kerbal-->
