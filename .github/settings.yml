@@ -11,7 +11,7 @@ repository:
   name: DockingPortDescriptions
 
   # A short description of the repository that will show up on GitHub
-  description: Module Manager patch adds docking port size/gender/shielded(if gendered - if shielded) to part descriptions in editor for all docking ports. for Kerbal Space Program.
+  description: Module Manager patch adds docking port size/gender/shielded(if gendered - if shielded) to part descriptions in editor for all docking ports, for Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/
