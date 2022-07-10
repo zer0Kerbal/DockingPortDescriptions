@@ -91,7 +91,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * all sizes of docking ports
 * [Near Future Construction](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*)
 * [PicoPort](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
-= [PicoPort for all sizes](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
+* [PicoPort for all sizes](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
 * [Konstruction](https://forum.kerbalspaceprogram.com/index.php?/topic/149233-*)
 * [Flexible Docking](http://forum.kerbalspaceprogram.com/index.php?/topic/108704-*)
 * [kerbodynePlus](https://forum.kerbalspaceprogram.com/index.php?/topic/130809-*)
