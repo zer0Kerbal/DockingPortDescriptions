@@ -95,7 +95,7 @@
 
 ---
 
-## Version 1.0.0.1- `<>>-- Release --<<>` edition
+## Version 1.0.0.1- `<Can See Clearly>` edition
 
 * 05 Oct 2019
 * Released for Kerbal Space Program 1.7.3
