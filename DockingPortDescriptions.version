@@ -1,38 +1,38 @@
 {
-    "NAME": "Docking Port Descriptions",
-    "URL": "https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/DockingPortDescriptions.version",
-    "DOWNLOAD": "http://github.com/zer0Kerbal/releases/latest",
-    "CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/Changelog.cfg",
-    "GITHUB":
-    {
+    "NAME"           : "Docking Port Descriptions (DPD)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/DockingPortDescriptions.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/DockingPortDescriptions/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/changelog.md",
+	"GITHUB" :
+	{
         "USERNAME":"zer0Kerbal",
         "REPOSITORY":"DockingPortDescriptions",
         "ALLOW_PRE_RELEASE":false
     },
     "VERSION":
     {
-        "MAJOR":1,
-        "MINOR":0,
-        "PATCH":1,
-        "BUILD":1
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 1,
+        "BUILD" : 1
     },
     "KSP_VERSION":
     {
-        "MAJOR": 1,
-        "MINOR": 8,
-        "PATCH": 1
+        "MAJOR" : 1,
+        "MINOR" : 8,
+        "PATCH" : 1
     },
     "KSP_VERSION_MIN":
     {
-        "MAJOR":1,
-        "MINOR":4,
-        "PATCH":5
+        "MAJOR" : 1,
+        "MINOR" : 4,
+        "PATCH" : 5
     },
     "KSP_VERSION_MAX":
     {
-        "MAJOR":1,
-        "MINOR":8,
-        "PATCH":9999
+        "MAJOR" : 1,
+        "MINOR" : 8,
+        "PATCH" : 9999
     },
     "INSTALL_LOC":
     {
