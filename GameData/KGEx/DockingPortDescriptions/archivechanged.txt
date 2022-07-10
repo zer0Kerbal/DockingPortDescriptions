@@ -1,0 +1,14 @@
+# Docking Port Descriptions (DPD)
+
+## zer0Kerbal
+
+this archive has been modified:
+* structure
+* part configs modified to reflect folder structure changes
+* contents removed
+  * MACOS files
+  * plugins (TweakScale and ModuleManager)
+* contents added
+  * this readme.txt
+  * DockingPortDescriptions.version
+* by zer0Kerbal
