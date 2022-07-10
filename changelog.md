@@ -10,22 +10,32 @@
 | spacedock  | (https://spacedock.info/mod/2246)                                    |
 | ckan       | DockingPortDescriptions                                              |
 
-## Version 1.0.1.1 - for KSP 1.12.3 [09-Jul-2022]
+## Version 1.1.0.0 - `<EDITION>` edition
 
-* #1 - Update DockingPortDescriptions.cfg - contributed by 7ranceaddic7
-* #4 - pull in changes from upstream - contributed by zer0Kerbal
+* 09 Jul 2022
+* Released for KSP 1.12.3
 
-## Version = 1.0.1.1- `<Extreme Bibliotheke Flexibility!>` edition
+---
+
+## Version 1.0.1.1- `<Extreme Bibliotheke Flexibility!>` edition
+
+* 07 Mar 2020
+* Released for Kerbal Space Program 1.8.1
 
 * corrected % which should have been @
 * minor corrections to
   * .version
   * changelog
   * thank you to @HebaruSan and @BenjaminCronin)
+* #1 - Update DockingPortDescriptions.cfg - contributed by 7ranceaddic7
+* #4 - pull in changes from upstream - contributed by zer0Kerbal
 
-## Version = 1.0.1.0- `<Extreme Bibliotheke Flexibility!>` edition
+---
 
-* released for KSP 1.8.1
+## Version 1.0.1.0- `<Extreme Bibliotheke Flexibility!>` edition
+
+* 07 Mar 2020
+* Released for Kerbal Space Program 1.8.1
 
 * Added
   * Flexible Docking ports
@@ -38,7 +48,10 @@
 
 ---
 
-## Version = 1.0.0.2- `< Near Future Construction>` edition
+## Version 1.0.0.2- `< Near Future Construction>` edition
+
+* 07 Oct 2019
+* Released for Kerbal Space Program 1.7.3
 
 * added :NEEDS to patches
 * now supports from Near Future Construction:
@@ -51,7 +64,10 @@
 
 ---
 
-## Version = 1.0.0.1- `<>>-- Release --<<>` edition
+## Version 1.0.0.1- `<>>-- Release --<<>` edition
+
+* 05 Oct 2019
+* Released for Kerbal Space Program 1.7.3
 
 * >>-- SpaceDock --<<
 * >>-- CKAN --<<
@@ -62,6 +78,9 @@
 
 ---
 
-## Version = 1.0.0.0- `<Bibliotheke!>` edition
+## Version 1.0.0.0- `<Bibliotheke!>` edition
+
+* 05 Oct 2019
+* Released for Kerbal Space Program 1.7.3
 
 * >>-- creation by zer0Kerbal --<<
