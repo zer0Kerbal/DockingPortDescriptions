@@ -232,14 +232,6 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: Localization - Master
-    description: progress toward total localization
-    state: open
-
-  - title: Localization - English <en-us.cfg>
-    description: progress toward English <en-us.cfg> localization
-    state: open
-
   - title: 1.1.0.0-release
     description: progress toward 1.1.0.0-release
     state: open    
@@ -262,4 +254,12 @@ milestones:
 
   - title: 1.0.0.0-release
     description: progress toward 1.0.0.0-release (archival release)
+    state: open
+
+  - title: Localization - English <en-us.cfg>
+    description: progress toward English <en-us.cfg> localization
+    state: open
+
+  - title: Localization - Master
+    description: progress toward total localization
     state: open
