@@ -15,6 +15,13 @@
 * 09 Jul 2022
 * Released for KSP 1.12.3
 
+
+* [DockingPortDescriptions.cfg]
+  * Sections Removed:
+    * "KSP_VERSION_MIN"
+    * "KSP_VERSION_MAX":
+
+
 * closes #2 - [Request 🚀]: add Kip Engineering
 * closes #3 - update
 * closes #7 - [Request 🚀]: add a shorthand notation to the part title? (like (s0/s1/s2/sK/SP)M:F:S)
