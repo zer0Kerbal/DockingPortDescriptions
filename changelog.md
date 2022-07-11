@@ -30,18 +30,12 @@
 
 ---
 
-## Version 1.0.1.1- `<Extreme Bibliotheke Flexibility!>` edition
+## Version 1.0.1.1-  `<Extreme Bibliotheke Flexibility! (reread)>`  edition
 
 * 07 Mar 2020
 * Released for Kerbal Space Program 1.8.1
 
-* added
-  * Flexible Docking ports
-  * kerbodynePlus 'Extreme' size
-* merged
-  * two gender patches into one patch
-* corrected
-  * % which should have been @
+* corrected % which should have been @
 * minor corrections to
   * .version
   * changelog
