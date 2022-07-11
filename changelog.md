@@ -35,7 +35,13 @@
 * 07 Mar 2020
 * Released for Kerbal Space Program 1.8.1
 
-* corrected % which should have been @
+* added
+  * Flexible Docking ports
+  * kerbodynePlus 'Extreme' size
+* merged
+  * two gender patches into one patch
+* corrected
+  * % which should have been @
 * minor corrections to
   * .version
   * changelog
@@ -125,7 +131,7 @@
 ### Status
 
 * Issues
-  * closes #9 - 1.0.0.0-release - `<>>-- creation by zer0Kerbal --<<>` edition
+  * closes #9 - 1.0.0.0-release - `<Bibliotheke!>` edition
   * updates #8 - Previous Versions Archive Upload
 
 ---
