@@ -15,6 +15,60 @@
 * 09 Jul 2022
 * Released for KSP 1.12.3
 
+<<<<<<< Updated upstream
+=======
+### Changes
+
+* [DockingPortDescriptions.version]
+  * Sections Removed:
+    * "KSP_VERSION_MIN"
+    * "KSP_VERSION_MAX":
+
+### NEW
+
+* [DockingPortDescriptions.cfg]
+  * ADD
+    * title abbreviations
+    * color coded
+    * § = shielded
+    * wanted to use ♀♂, but characters didn't show
+
+### UPDATED
+
+* [DockingPortDescriptions.cfg]
+  * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
+  * now accounts for parts with multiple [nodeTypes]
+  * now should handle ANY part using [ModuleDockingNode]
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* scraped/mined from Squad's dictionary
+  * #autoLOC_6001828 = Shielded
+  * #autoLOC_900434 = Male
+  * #autoLOC_900444 = Female
+* Updates # - Localization Master
+* Closes # - Localization - English <en-us.cfg>
+
+### docs/
+
+* Add
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+  * [404.md] v1.0.3.1
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+
+
+>>>>>>> Stashed changes
 * closes #2 - [Request 🚀]: add Kip Engineering
 * closes #3 - update
 * closes #7 - [Request 🚀]: add a shorthand notation to the part title? (like (s0/s1/s2/sK/SP)M:F:S)
