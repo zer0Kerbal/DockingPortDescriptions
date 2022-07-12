@@ -15,11 +15,37 @@
 * 09 Jul 2022
 * Released for KSP 1.12.3
 
+### Changes
 
-* [DockingPortDescriptions.cfg]
+* [DockingPortDescriptions.version]
   * Sections Removed:
     * "KSP_VERSION_MIN"
     * "KSP_VERSION_MAX":
+
+### NEW
+
+* [DockingPortDescriptions.cfg]
+  * ADD
+    * title abbreviations
+    * color coded
+    * § = shielded
+    * wanted to use ♀♂, but characters didn't show
+
+### UPDATED
+
+* [DockingPortDescriptions.cfg]
+  * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
+  * now accounts for parts with multiple [nodeTypes]
+  * now should handle ANY part using [ModuleDockingNode]
+
+### Localization
+
+* scraped/mined from Squad's dictionary
+  * #autoLOC_6001828 = Shielded
+  * #autoLOC_900434 = Male
+  * #autoLOC_900444 = Female
+
+### docs/
 
 
 * closes #2 - [Request 🚀]: add Kip Engineering
