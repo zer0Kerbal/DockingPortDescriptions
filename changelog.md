@@ -15,8 +15,6 @@
 * 09 Jul 2022
 * Released for KSP 1.12.3
 
-<<<<<<< Updated upstream
-=======
 ### Changes
 
 * [DockingPortDescriptions.version]
@@ -68,7 +66,6 @@
   * [_config.yml]
 
 
->>>>>>> Stashed changes
 * closes #2 - [Request 🚀]: add Kip Engineering
 * closes #3 - update
 * closes #7 - [Request 🚀]: add a shorthand notation to the part title? (like (s0/s1/s2/sK/SP)M:F:S)
@@ -83,6 +80,27 @@
   * closes #17 - 1.1.0.0 Update Social Media
 
 ---
+
+## Version 1.0.2.0-  `<Twelfth Night>`  edition
+
+* 11 Jul 2022
+* Released for Kerbal Space Program 1.12.3
+
+* minor corrections to
+  * .version
+  * changelog
+  * thank you to @HebaruSan and @BenjaminCronin)
+
+### Status
+
+* Issues  
+  * closes #13 - 1.0.1.1-release - `<Extreme Bibliotheke Flexibility! (reread)>` edition
+  * closes #8 - Previous Versions Archive Upload
+  * #1 - Update DockingPortDescriptions.cfg - contributed by 7ranceaddic7
+  * #4 - pull in changes from upstream - contributed by zer0Kerbal
+
+---
+
 
 ## Version 1.0.1.1-  `<Extreme Bibliotheke Flexibility! (reread)>`  edition
 
