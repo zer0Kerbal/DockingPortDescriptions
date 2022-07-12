@@ -17,11 +17,6 @@
 
 ### Changes
 
-* [DockingPortDescriptions.version]
-  * Sections Removed:
-    * "KSP_VERSION_MIN"
-    * "KSP_VERSION_MAX":
-
 ### NEW
 
 * [DockingPortDescriptions.cfg]
@@ -52,18 +47,6 @@
 * Updates # - Localization Master
 * Closes # - Localization - English <en-us.cfg>
 
-### docs/
-
-* Add
-  * [Attribution.md] v1.0.6.0
-  * [ManualInstallation.md] v1.1.7.0
-  * [404.md] v1.0.3.1
-  * [LegalMumboJumbo.md] v1.0.5.0
-  * [Localizations.md] v1.1.3.1
-  * [Marketing.md] v1.0.0.0
-  * [Notices.md] v1.0.0.0
-  * [Why.md] v1.1.0.0
-  * [_config.yml]
 
 
 * closes #2 - [Request 🚀]: add Kip Engineering
@@ -86,10 +69,33 @@
 * 11 Jul 2022
 * Released for Kerbal Space Program 1.12.3
 
+
+### UPDATED
+
+* [DockingPortDescriptions.version]
+  * Sections Removed:
+    * "KSP_VERSION_MIN"
+    * "KSP_VERSION_MAX":
+* [DockingPortDescriptions.cfg]
+  * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
 * minor corrections to
   * .version
   * changelog
-  * thank you to @HebaruSan and @BenjaminCronin)
+* Folder rename
+  * Patches -> Compatibility
+
+### docs/
+
+* Add
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+  * [404.md] v1.0.3.1
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
 
 ### Status
 
