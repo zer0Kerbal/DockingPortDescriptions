@@ -24,7 +24,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/2246)                                    |
 | ckan       | DockingPortDescriptions                                              |
 
-## Version 1.1.0.0 - `<EDITION>` edition
+## Version 1.1.0.0-release - `<EDITION>` edition
 
 * 09 Jul 2022
 * Released for KSP 1.12.3
@@ -73,7 +73,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.2.0-  `<Twelfth Night>`  edition
+## Version 1.0.2.0-release  `<Twelfth Night>`  edition
 
 * 11 Jul 2022
 * Released for Kerbal Space Program 1.12.3
@@ -126,7 +126,6 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #41 - 1.0.2.0 Update Social Media
 
 ---
-
 
 ## Version 1.0.1.1-  `<Extreme Bibliotheke Flexibility! (reread)>`  edition
 
