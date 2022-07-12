@@ -17,11 +17,6 @@
 
 ### Changes
 
-* [DockingPortDescriptions.version]
-  * Sections Removed:
-    * "KSP_VERSION_MIN"
-    * "KSP_VERSION_MAX":
-
 ### NEW
 
 * [DockingPortDescriptions.cfg]
@@ -30,6 +25,7 @@
     * color coded
     * § = shielded
     * wanted to use ♀♂, but characters didn't show
+* closes #7 - [Request 🚀]: add a shorthand notation to the part title? (like (s0/s1/s2/sK/SP)M:F:S)
 
 ### UPDATED
 
@@ -37,6 +33,7 @@
   * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
   * now accounts for parts with multiple [nodeTypes]
   * now should handle ANY part using [ModuleDockingNode]
+* 24 patches reduced to 6
 
 ### Localization
 
@@ -49,27 +46,8 @@
   * #autoLOC_6001828 = Shielded
   * #autoLOC_900434 = Male
   * #autoLOC_900444 = Female
-* Updates # - Localization Master
-* Closes # - Localization - English <en-us.cfg>
-
-### docs/
-
-* Add
-  * [Attribution.md] v1.0.6.0
-  * [ManualInstallation.md] v1.1.7.0
-  * [404.md] v1.0.3.1
-  * [LegalMumboJumbo.md] v1.0.5.0
-  * [Localizations.md] v1.1.3.1
-  * [Marketing.md] v1.0.0.0
-  * [Notices.md] v1.0.0.0
-  * [Why.md] v1.1.0.0
-  * [_config.yml]
-
-
-* closes #2 - [Request 🚀]: add Kip Engineering
-* closes #3 - update
-* closes #7 - [Request 🚀]: add a shorthand notation to the part title? (like (s0/s1/s2/sK/SP)M:F:S)
-* closes #8 - Previous Versions Archive Upload
+* Updates #19 - Localization Master
+* Closes #20 - Localization - English <en-us.cfg>
 
 ### Status
 
@@ -86,18 +64,52 @@
 * 11 Jul 2022
 * Released for Kerbal Space Program 1.12.3
 
+### UPDATED
+
+* [DockingPortDescriptions.version]
+  * Sections Removed:
+    * "KSP_VERSION_MIN"
+    * "KSP_VERSION_MAX":
+* [DockingPortDescriptions.cfg]
+  * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
 * minor corrections to
   * .version
   * changelog
-  * thank you to @HebaruSan and @BenjaminCronin)
+* Folder rename
+  * Patches -> Compatibility
+* closes #2 - [Request 🚀]: add Kip Engineering
+* closes #3 - update
+
+### docs/
+
+* Add
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+  * [404.md] v1.0.3.1
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+* closes #37 - docs/
+
+### GitHub
+
+* Previous Releases
+  * closes #8 - Previous Versions Archive Upload
+  * closes #10 - 1.0.0.1-release - `<Can See Clearly>` edition
+  * closes #11 - 1.0.0.2-release - `<Near Future Construction>` edition
+  * closes #12 - 1.0.1.0-release - `<Extreme Bibliotheke Flexibility!>` edition
+  * closes #13 - 1.0.1.1-release - `<Extreme Bibliotheke Flexibility! (reread)>` edition
 
 ### Status
 
 * Issues  
-  * closes #13 - 1.0.1.1-release - `<Extreme Bibliotheke Flexibility! (reread)>` edition
-  * closes #8 - Previous Versions Archive Upload
-  * #1 - Update DockingPortDescriptions.cfg - contributed by 7ranceaddic7
-  * #4 - pull in changes from upstream - contributed by zer0Kerbal
+  * closes #38 - Docking Port Descriptions 1.0.2.0-release `<Twelfth Night>`
+  * closes #39 - 1.0.2.0 Verify Legal Mumbo Jumbo
+  * closes #40 - 1.0.2.0 Update Documentation
+  * closes #41 - 1.0.2.0 Update Social Media
 
 ---
 
