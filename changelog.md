@@ -103,8 +103,6 @@
   * closes #12 - 1.0.1.0-release - `<Extreme Bibliotheke Flexibility!>` edition
   * closes #13 - 1.0.1.1-release - `<Extreme Bibliotheke Flexibility! (reread)>` edition
 
-
-
 ### Status
 
 * Issues  
