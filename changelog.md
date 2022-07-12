@@ -40,6 +40,10 @@
 
 ### Localization
 
+en-us.cfg v1.0.0.0
+"C:\KSPDev\Patches\Repo\DockingPortDescriptions\_Localization\readme-v2.1.2.0.md"
+"C:\KSPDev\Patches\Repo\DockingPortDescriptions\_Localization\quickstart-v1.0.1.1.md"
+
 * scraped/mined from Squad's dictionary
   * #autoLOC_6001828 = Shielded
   * #autoLOC_900434 = Male
