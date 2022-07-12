@@ -12,7 +12,7 @@
 
 ## Version 1.1.0.0-release - `<EDITION>` edition
 
-* 09 Jul 2022
+* 15 Jul 2022
 * Released for KSP 1.12.3
 
 ### Changes
