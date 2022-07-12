@@ -29,10 +29,39 @@ CC BY-ND 4.0 by zer0Kerbal
 * 09 Jul 2022
 * Released for KSP 1.12.3
 
-* closes #2 - [Request 🚀]: add Kip Engineering
-* closes #3 - update
+### Changes
+
+### NEW
+
+* [DockingPortDescriptions.cfg]
+  * ADD
+    * title abbreviations
+    * color coded
+    * § = shielded
+    * wanted to use ♀♂, but characters didn't show
 * closes #7 - [Request 🚀]: add a shorthand notation to the part title? (like (s0/s1/s2/sK/SP)M:F:S)
-* closes #8 - Previous Versions Archive Upload
+
+### UPDATED
+
+* [DockingPortDescriptions.cfg]
+  * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
+  * now accounts for parts with multiple [nodeTypes]
+  * now should handle ANY part using [ModuleDockingNode]
+* 24 patches reduced to 6
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* scraped/mined from Squad's dictionary
+  * #autoLOC_6001828 = Shielded
+  * #autoLOC_900434 = Male
+  * #autoLOC_900444 = Female
+* Updates #19 - Localization Master
+* Closes #20 - Localization - English <en-us.cfg>
 
 ### Status
 
@@ -44,18 +73,67 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.1.1- `<Extreme Bibliotheke Flexibility!>` edition
+## Version 1.0.2.0-  `<Twelfth Night>`  edition
+
+* 11 Jul 2022
+* Released for Kerbal Space Program 1.12.3
+
+### UPDATED
+
+* [DockingPortDescriptions.version]
+  * Sections Removed:
+    * "KSP_VERSION_MIN"
+    * "KSP_VERSION_MAX":
+* [DockingPortDescriptions.cfg]
+  * replaced :NEEDS:[FlexoDocking] with :NEEDS[FlexoTubes]
+* minor corrections to
+  * .version
+  * changelog
+* Folder rename
+  * Patches -> Compatibility
+* closes #2 - [Request 🚀]: add Kip Engineering
+* closes #3 - update
+
+### docs/
+
+* Add
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+  * [404.md] v1.0.3.1
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+* closes #37 - docs/
+
+### GitHub
+
+* Previous Releases
+  * closes #8 - Previous Versions Archive Upload
+  * closes #10 - 1.0.0.1-release - `<Can See Clearly>` edition
+  * closes #11 - 1.0.0.2-release - `<Near Future Construction>` edition
+  * closes #12 - 1.0.1.0-release - `<Extreme Bibliotheke Flexibility!>` edition
+  * closes #13 - 1.0.1.1-release - `<Extreme Bibliotheke Flexibility! (reread)>` edition
+
+### Status
+
+* Issues  
+  * closes #38 - Docking Port Descriptions 1.0.2.0-release `<Twelfth Night>`
+  * closes #39 - 1.0.2.0 Verify Legal Mumbo Jumbo
+  * closes #40 - 1.0.2.0 Update Documentation
+  * closes #41 - 1.0.2.0 Update Social Media
+
+---
+
+
+## Version 1.0.1.1-  `<Extreme Bibliotheke Flexibility! (reread)>`  edition
 
 * 07 Mar 2020
 * Released for Kerbal Space Program 1.8.1
 
-* added
-  * Flexible Docking ports
-  * kerbodynePlus 'Extreme' size
-* merged
-  * two gender patches into one patch
-* corrected
-  * % which should have been @
+* corrected % which should have been @
 * minor corrections to
   * .version
   * changelog
